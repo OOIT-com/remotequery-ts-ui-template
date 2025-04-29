@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+        xmlns="http://www.w3.org/2000/svg"
+        xml:space="preserve"
+        enable-background="new 0 0 48 48"
+        viewBox="0 0 48 48"
+        height="48px"
+        width="48px"
+        y="0px"
+        x="0px"
+        id="lighthouse"
+        version="1.1"><defs
+     id="defs29" />
+
+    <polygon
+            style="fill:#eeeeee"
+            transform="translate(10,0)"
+            id="polygon3"
+            points="19,10.001 24,44 6,44 11,10.001 "/>
+    <g
+            transform="translate(10,0)"
+            id="g5"><polygon
+       style="fill:#FF0000;fill-opacity:1"
+       id="polygon7"
+       points="19.588,14 10.412,14 9.235,22 20.765,22 " />
+        <polygon
+                style="fill:#FF0000;fill-opacity:1"
+                id="polygon9"
+                points="7.029,37 22.971,37 21.794,29 8.206,29 "/>
+        <rect
+                style="fill:#ff3d00"
+                id="rect11"
+                height="6"
+                width="6"
+                y="6"
+                x="12"/></g>
+    <g
+            transform="translate(10,0)"
+            id="g15"><polygon
+       style="fill:#eeeeee;fill-opacity:1"
+       id="polygon17"
+       points="20,5 15,0 10,5 " />
+        <polygon
+                style="fill:#FF0000"
+                id="polygon19"
+                points="10.444,14 10.167,16 19.833,16 19.556,14 "/></g>
+    <g
+            transform="translate(10,0)"
+            id="g21"><rect
+       style="fill:#eeeeee"
+       id="rect23"
+       height="4"
+       width="12"
+       y="10.001"
+       x="9" />
+        <path
+                id="path25"
+                d="m 17,28 v -3 c 0,-1.104 -0.896,-2 -2,-2 -1.104,0 -2,0.896 -2,2 v 3 h 4 z"/></g>
+    <polygon
+            points="42,5 42,14 18,10 18,8 "
+            id="polygon3008"
+            transform="matrix(0.70338983,0,0,1,16.322034,-1.2203389)"
+            style="fill:#ffee00;fill-opacity:1"/>
+    <polygon
+            points="18,10 18,8 42,5 42,14 "
+            id="polygon3034"
+            transform="matrix(-0.68644067,0,0,1,32.796609,-1.2203388)"
+            style="fill:#ffee00;fill-opacity:1"/></svg>
